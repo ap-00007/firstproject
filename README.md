@@ -1,3 +1,3 @@
 # firstproject
 my first github Repo
-author - Ashish
+author - Ashish kumar panda
